@@ -1,4 +1,10 @@
-# IoT-project-SmartMirror
+
+# IoT project Smart Mirror 🪞
+
+👇 
+### Check out our website [here](https://alonlabrisch.wixsite.com/genius-mirror) to learn more! 
+
+
 
 ## Build local image
 Run this from mirror-ui directory.
